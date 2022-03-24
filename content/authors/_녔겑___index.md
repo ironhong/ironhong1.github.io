@@ -1,43 +1,44 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include inclusive planning, spatio‐temporal modeling, and ML(machine learning) based causal inference.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: PhD candidate in urban and regional planning
+    institution: Seoul National University
+    year: 2019-current
+  - course: PhD course in urban administration
+    institution: University of Seoul
+    year: 2017-2019
+  - course: Master of urban administration
+    institution: University of Seoul
+    year: 2015-2017
+email: "righttocity123@gmail.com"
+highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Inclusive Planning
+- Spatio‐temporal Modeling
+- ML(machine learning) 
+- Causal Inference
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: Seoul National University
+  url: https://en.snu.ac.kr/
+role: PhD candidate
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: /#contact
+- display:
+    header: true
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=LUjF0tAAAAAJ&hl=ko
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-superuser: false
-title: 吳恩達
+  link: https://github.com/ironhong
+
+superuser: true
+title: Iron Zhe Hong (홍철)
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Iron Hong is a PhD candidate of Dept. of Environmental Planning at the Seoul National University. His research interests include inclusive planning, spatio‐temporal modeling, and ML(machine learning) based causal inference. His doctoral advisor is Professor [In Kwon, Park](https://gses.snu.ac.kr/ko/professor/41).  He also is a reviewer of [Social Indicators Research](https://www.springer.com/journal/11205).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
