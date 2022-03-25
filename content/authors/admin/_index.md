@@ -31,15 +31,15 @@ social:
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=LUjF0tAAAAAJ&hl=ko
-- icon: github
+- icon: researchgate
   icon_pack: fab
-  link: https://github.com/ironhong
+  link: https://www.researchgate.net/profile/Zhe-Hong-3
 
 superuser: true
-title: 홍철
+title: Iron Hong
 ---
 
-홍철 is a PhD candidate of Dept. of Environmental Planning at the Seoul National University. His research interests include inclusive planning, spatio‐temporal modeling, and ML(machine learning) based causal inference. His doctoral advisor is Professor In Kwon, Park.  He also is a reviewer of [Social Indicators Research](https://www.springer.com/journal/11205).
+Iron Hong is a PhD candidate of Dept. of Environmental Planning at the Seoul National University. His research interests include inclusive planning, spatio‐temporal modeling, and ML(machine learning) based causal inference. His doctoral advisor is Professor In Kwon, Park.  He also is a reviewer of [Social Indicators Research](https://www.springer.com/journal/11205).
 
 
 {{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/resume.pdf" "newtab" >}}cv{{< /staticref >}}.

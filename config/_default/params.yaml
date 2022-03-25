@@ -28,9 +28,7 @@ address:
   postcode: '08826'
   country: South Korea
   country_code: KR
-coordinates:
-  latitude: '37.46210'
-  longitude: '126.95421'
+
 
 # Site header
 
