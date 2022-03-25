@@ -1,18 +1,30 @@
 ---
-title: "Hello R Markdown"
-author: "Frida Gomam"
-date: 2020-12-01T21:13:14-05:00
-categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
+title: "R Markdown？"
+author: WSJ
+#date:  "`r Sys.Date()`"
+date: '2019-10-18'
+slug: ''
+categories:
+  - R
+tags:
+  - Rmarkdowm
+image:
+  caption: ''
+  focal_point: ''
+output: 
+  blogdown::html_page:
+    toc: true
+    toc_depth: 2
+    number_sections: TRUE
+ #   toc_float: TRUE
+    indent: 2
+citation_package: natbib
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(collapse = TRUE)
-```
 
 # R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+This is an R Markdown document. `Markdown` is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
 You can embed an R code chunk like this:
 
@@ -21,6 +33,20 @@ summary(cars)
 fit <- lm(dist ~ speed, data = cars)
 fit
 ```
+
+
+$$\begin{pmatrix}a & b\\\\c &d\end{pmatrix}$$
+```markdown
+f(x)=
+\begin{cases}
+\sin(x) & x>0,\\
+0 & x=0,\\
+\cos(x) & x<0.
+\end{cases}
+```
+
+
+
 
 # Including Plots
 
@@ -35,3 +61,51 @@ pie(
   init.angle = -50, border = NA
 )
 ```
+
+
+When you subset a data frame, it does not necessarily return
+a data frame. For example, if you subset two columns, you get
+a data frame, but when you try to subset one column, you get
+a vector:
+
+### Problem 1
+
+데이터 $x_1,...,x_n$이 주어졌을 때, 표본 평균 $\overline{x}$는 다음과 같은 식을 이용하여 구할 수 있다.
+
+
+
+$$f(x) = \frac{1}{2} \sum_{i=1}^\infty \int_0^1 \sin^2(i t x) dt.$$
+
+### Problem 2
+
+데이터 $x_1,...,x_n$이 주어졌을 때, 표본 분산 $s^2$과 표준 편차 $s$는 다음과 같은 식을 이용하여 구할 수 있다.
+$$
+\begin{align}
+s^2 &= \frac{1}{n-1} \sum_{i=1}^n (x_i - \overline{x})^2,\\
+s &= \sqrt{\frac{1}{n-1} \sum_{i=1}^n (x_i - \overline{x})^2} 
+\end{align}
+$$
+
+$$
+f(x)=ax^2+bx+c\\
+g(x)=Ax^4
+$$
+$\alpha A$
+
+|헤더1|헤더2|헤더3|
+|------|------|------|
+|데이터1|데이터2|데이터3|
+|데이터1|데이터2|데이터3|
+
+
+
+
+
+
+
+
+
+
+
+
+
