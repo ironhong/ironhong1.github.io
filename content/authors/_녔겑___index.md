@@ -4,7 +4,7 @@ education:
   courses:
   - course: PhD in city planning
     institution: Seoul National University
-    year: 2019-2024
+    year: 2019-2024.2
   - course: PhD course in urban administration
     institution: University of Seoul
     year: 2017-2019
